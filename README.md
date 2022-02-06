@@ -7,7 +7,8 @@ Basics of data manipulation using PySpark.
 
 # My configs: After installation add these lines to ~/.bashrc (Ubuntu 20.04)
 
-#### >>> Spark and PySpark >>>
+---
+#>>> Spark and PySpark >>>
 
 export SPARK_HOME=/opt/spark
 
@@ -21,4 +22,5 @@ export PYSPARK_DRIVER_PYTHON=jupyter
 
 export PYSPARK_DRIVER_PYTHON_OPTS='notebook'
 
-#### <<< Spark and PySpark <<<
+# <<< Spark and PySpark <<<
+---
